@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "stagno",
+    "private_key_id": "2dbee99ab062ed976d562f6184e347a1fefa1530",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCTQAlRCPwDebsi\nervHBSSUCTVDfm7pCxWIJQvXgqEIc+UX2SYTa3lAa5HzW6V4Td+4CtAjKm2YAQIz\njqK3WwsnjVtm0+FO35XFyqLU6Fe5ydbx2/iRkmJFi554cvpHZuECR9FL9fuecRW6\nTraNh1dpnoBDQ6F9+oqnEXqgnmm5xedZyM7/LN6Q8ZdaLhgkka5e190P3DDbph3N\nBLJC/w/FGIssO/gre+PQ9iX+o1lrc8qJe12/bNtaZDKCX519X3JgMi81XjzuIZ5i\nTXzDY/X7nHb9e8OohTvJ9zVlB8Db2pBE/K17/JDHNR3bgUHbgLBHNTq1cTrs8of3\n8vtRwImdAgMBAAECggEADkfLFNimDDY9j6ykfRAtdHfnelS5hTtbIA7WX6peW1dW\nCU04yUWxMYNdLmNIdcA4/qckeWHvgAA1Ckf+gCwXCwPFW1XCx5Hye1yuvwQ2IcwG\nia03evKzOiMTatiybMNNoMQonaZ3pm2O2biG3CHwjcsz4udyXX6Ip4blRCIo3Ghv\nNiuWw5aHCDOg5HLbeNJl3SvvoyifcA/9v7hs30cdyi39jWs4tJ9tKPPkKrqgiEPX\nUzBcFqDG5GcYm0ORY7SVMAYZQ9SmEoy509PeOQO30xJDUMgVaBGt5OClsO08oIfd\nC9W0rLkskedIDgghuRNvdzhOdi75YqZzSh79ZwPkJwKBgQDE+/8hjkBAvgEpffhu\n5QDQ4c2/jaYdyTXsH7M9qIP21vZ0p1UCuPhF3VGvnYJ6JbVCuak0Z//+uehgfmc4\nHbfubYUeR+IrUgjSv4nXH4BPOoFXlDYmtkICa4G4Y381J+dJwaL4pzXe6l/4iVl3\n2YtiB8mnqDqh3r3sLDPtPLgmfwKBgQC/XZnlpgoHKyDFt3x3XRFpWdFZ5tCqBQdP\nphMWih1yyrX4+pp+JniCT/9rLWLgkNBlmebFy4ZxuNGZP9YiJvNo/bGnI/UUw3oI\nCYMc7Zf2T9BfEZj7GnTf+EI36bLNRXmV/mBCA9VnkRpDsrG18NxOBtNPSMsuNNvb\nyACsb0wZ4wKBgEColu5kyyJ1O9xqxQlhkgr+k5K05DoSuehv31312ptDpFJWOslR\n/eyw4QdMJHADwKPOXYQePyFV1LkXxLnex2kz+eYeolal7s9+n7hFVtCq25nrxHqg\niLpSn5nuzuqb1oeXT+9es4ggVrA2JW/5sI7VD5RA3D4V5zGGsOTGcYvxAoGBAIu1\nZDO6wrt1CxoN2TqzoZCOWD8QOerGfQ3zKyBbeSBjSfMZ0kyi/Xv1t32hxvw3/U0P\nzOE+s0q3KZ5+cnDAixhtjpN9tuGPzLmtaCFofHcA0hl2GX/JUuZosr9rSHSAckHF\nUrUfY1+XGduuy/sOe2gjp4XMmTmEsbaFD6jUIHUNAoGAdfhwMvp1oR35qZ66KPF7\nHcOTnFyM2vj5JTn5A3chiURP6nAFqayh0jFDL9+ioQD/729EaeExns6Um8fr1JlO\n5kLJAm/UkwWj4goexVqdZE+rJ2ksx1le040UAoiEexo6AmHszKRqu1Tc0lsDGUKs\nxr3zFDI4yfCcMyI+2CnGQKo=\n-----END PRIVATE KEY-----\n",
+    "client_email": "aryanmainkar@stagno.iam.gserviceaccount.com",
+    "client_id": "110620127107379533777",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aryanmainkar%40stagno.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
